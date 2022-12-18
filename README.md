@@ -30,3 +30,6 @@ action:
 mode: single
 ```
 After you Toggle the Button the first time a device_tracker.guest will apear which you can use e.g. for person (with the name Guest)
+
+[And no, @frenk is wrong, when he think you can add a input_boolean.guest button directly to track a person...
+Would be a better solution if ha would allow it, but ...](https://github.com/home-assistant/home-assistant.io/pull/25152#discussion_r1045723818)
